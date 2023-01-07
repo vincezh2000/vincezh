@@ -93,31 +93,29 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Peking University
+Minor in Economics in the National School of Development
+2020 — 2023
+Selected Coursework: Econometrics, Probability Theory & Mathematical Statistics.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Beijing Technology and Business University
+2018 — 2022
+Selected Awards: First College Scholarship (1/118, 2020), First Prize Of Mathematics Competition Of Beijing Technology And Business University (Science And Engineering Division) (Top 2%), Second Prize Of National Mathematics Competitions At The Provincial Level (Top 12%).
+Selected Coursework: Object–Oriented Programming (91), JAVA Core Programming (A), WEB System Front–End Technology (A), Database Principle And Design (A), Software Engineering (A), Advanced Mathematics (A), Data Structure (A).
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Deep Learning Research Assistant at Advanced Interactive Technology Lab, CNIC, CAS
+February 2022 –– June 2022
+Performed Neural Network SIREN (which utilizes periodic activation function for implicit neural representation) on Sea Level Anomaly Dataset (SLAD) for Further Lossy Compressing Task, which can be applied to Scientific Computing of Multi–Physics Complex System, substantially improving its interactivity.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+DHC Software Co., Ltd., SWE intern, Department of Financial Big Data
+July 2021 –– September 2021
+Developed new credit information download module for 2nd CRS business credit system using JAVA and Spring Boot. Helped users to get encrypted and plain XML datagrams about personal credit information. Used pivot tables to display data. elped users to retrieve running tasks efficiently.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Undergraduate Machine Learning Researcher at Beijing Technology and Business University
+July 2020 –– September 2020
+Implemented sub–sampling methods cloud sampling for reducing data density with Pyhton library LasPy and NumPy. This grid subsampling strategy were based on division of 3D space in voxels and selected representant (closest point to barycenter). Also, I vectorized sub–sampling method with broadcasting for efficiency, which end up achieving a 90% decrease of data density with 5cm voxel and relatively equilibrium between accuracy and efficiency.
 
 My skills
 
